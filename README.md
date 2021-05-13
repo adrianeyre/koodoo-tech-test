@@ -74,6 +74,7 @@ In our example above, the account balance was originally 200 and decreased to 10
 - Not to mutate the original `accountBalanceHistory` variable
 - The same result should show for all balances increasing and all balances decreasing
 - The increment should be increasing **OR** decreasing **NOT** both
+- `negative` numbers are not handled
 
 ## Scenario Tested 🧪
 - Whole numbers increasing
