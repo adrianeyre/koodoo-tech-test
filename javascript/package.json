@@ -1,0 +1,14 @@
+{
+  "name": "koodoo-js",
+  "version": "1.0.0",
+  "description": "Koodoo Software Engineer Technical Assessment",
+  "main": "account-type-checker.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Adrian Eyre",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
